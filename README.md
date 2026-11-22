@@ -1,3 +1,5 @@
+<img src=".github/cover.png" alt="cover" width="100%" />
+
 # GradeFlow — AI answer-sheet grader
 
 An AI grading platform built for a chemistry coaching institute.
